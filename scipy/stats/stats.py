@@ -6656,7 +6656,7 @@ def chisquare(f_obs, f_exp=None, ddof=0, axis=0):
     --------
     scipy.stats.power_divergence
     scipy.stats.fisher_exact : A more powerful alternative to the chisquare
-                               test if any of the frequencies are less than 5.
+        test if any of the frequencies are less than 5.
 
     Notes
     -----
